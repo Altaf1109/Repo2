@@ -8,10 +8,10 @@ D) All of the above
 
 --------------------
 2. Which command stages all modified and new files in the current directory?
-A) git add .
-B) git add -A
-C) git add --all
-D) All of the above
+A) Automatically commits changes
+B) Allows interactive staging of changes
+C) Pushes changes to the remote repository
+D) Removes files from the staging area
 -----------------------
 3. What is the purpose of git add -p?
 A) Automatically commits changes
