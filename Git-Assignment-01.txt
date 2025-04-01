@@ -1,10 +1,10 @@
 Date:11 March 2025 assignment are solved by altaf
 -------------------
 1. What does git add do?
-A) Automatically commits changes
-B) Allows interactive staging of changes
-C) Pushes changes to the remote repository
-D) Removes files from the staging area
+A) git add .
+B) git add -A
+C) git add --all
+D) All of the above
 
 --------------------
 2. Which command stages all modified and new files in the current directory?
