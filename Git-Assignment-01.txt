@@ -1,8 +1,6 @@
-Date:11 March 2025
+Date:11 March 2025 assignment are solved by altaf
 -------------------
 1. What does git add do?
-
-
 A) Automatically commits changes
 B) Allows interactive staging of changes
 C) Pushes changes to the remote repository
